@@ -1,0 +1,49 @@
+body,html{
+	background-image: linear-gradient(to bottom right,#000000, #000000);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+.container{
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+
+.sub-container-one{
+	display: flex;;
+	justify-content: center;
+
+
+}
+
+
+
+.sub-container-two{
+
+	display: flex;;
+	justify-content: center;
+
+
+}
+
+
+
+
+div > img {
+	width: 200px;
+	height: 200px;
+}
+
+
+
+h1 {
+	font-family: 'Coiny', cursive;
+	color: #fff;
+	font-size: 6em;
+}
+
+p{
+	font-family: 'Roboto Slab', serif;
+}
