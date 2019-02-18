@@ -13,7 +13,7 @@ cd dicegame
 
 
 ### USE Deployed link
- Use deployed link [here](https://github.com/creationix/nvm#installation) 
+ Use deployed link [here](https://janakhpon.github.io/dicegame/) 
 
 
 
