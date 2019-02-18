@@ -5,30 +5,35 @@ body,html{
 
 }
 
-.container{
-	flex-direction: column;
-	flex-wrap: wrap;
+h1 {
+	font-family: 'Coiny', cursive;
+	color: #fff;
+	font-size: 6em;
 }
 
 
-.sub-container-one{
-	display: flex;;
+
+.sub-container{
+	display: flex;
 	justify-content: center;
 
 
 }
 
-
-
-.sub-container-two{
-
-	display: flex;;
-	justify-content: center;
-
-
+.btn{
+	margin:2px;
 }
 
+div > button {
 
+	width: 20vw;
+	height: 6vh;
+	margin-top: 20%;
+	align-items: flex-end;
+	border-radius: 20px;
+	font-family: 'Roboto Slab', serif;
+
+}
 
 
 div > img {
@@ -38,12 +43,3 @@ div > img {
 
 
 
-h1 {
-	font-family: 'Coiny', cursive;
-	color: #fff;
-	font-size: 6em;
-}
-
-p{
-	font-family: 'Roboto Slab', serif;
-}
