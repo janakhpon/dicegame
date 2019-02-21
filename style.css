@@ -11,6 +11,13 @@ h1 {
 	font-size: 6em;
 }
 
+h3 {
+	font-family: 'Coiny', cursive;
+	color:red;
+	font-size: 4em;
+}
+
+
 
 
 .sub-container{
@@ -31,10 +38,20 @@ div > button {
 	margin-top: 20%;
 	align-items: flex-end;
 	border-radius: 20px;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 5px;
 	font-family: 'Roboto Slab', serif;
 
 }
 
+button:hover {
+	background-color: blue;
+	color:#fff;
+	font-size: 25px;
+	cursor: pointer;
+
+}
 
 div > img {
 	width: 200px;
